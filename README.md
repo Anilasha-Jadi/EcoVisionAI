@@ -73,6 +73,3 @@ Classification Report
 **End-of-Life Recommendation System**
 
 After predicting the waste category, the system suggests appropriate disposal methods for sustainable waste management.
-End-of-Life Recommendation System
-
-After predicting the waste category, the system suggests appropriate disposal methods for sustainable waste management.
